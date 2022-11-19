@@ -7,8 +7,6 @@ KNN is a machine learning algorithm which can be used for classification tasks. 
 ### Requirements
 
 - Python 3
-- operator
-- random
 - numpy
 - pandas
 
